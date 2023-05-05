@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Student"
+        android:icon="@drawable/baseline_add_ic_call_24"
+        android:id="@+id/student"/>
+    <item
+        android:title="Family"
+        android:icon="@drawable/baseline_perm_phone_msg_24"
+        android:id="@+id/family"
+/>
+</menu>
